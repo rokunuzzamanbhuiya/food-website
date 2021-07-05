@@ -3,3 +3,37 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+.menu-bar{
+	background-color: #fff0e5;
+    padding: 50px 0px;
+}
+.mid{
+	width: 80%;
+	margin: auto;
+    margin-top: -36px;
+}
+.logo{
+	width: 30%;
+	float: left;
+	cursor: pointer;
+}
+.menu{
+	width: 70%;
+	float: left;
+}
+.menu ul{
+	text-align: right;
+}
+.menu ul li{
+	display: inline-block;
+}
+.menu ul li a{
+	display: block;
+	color: black;
+	font-size: 16px;
+	padding: 10px 20px;
+    text-decoration: none;
+}
+.menu ul li:hover a{
+	color: orange;
+}
