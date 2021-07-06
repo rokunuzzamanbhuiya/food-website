@@ -8,7 +8,7 @@ body{
     padding: 50px 0px;
 }
 .mid{
-	width: 80%;
+	width: 86%;
 	margin: auto;
     margin-top: -36px;
 }
@@ -36,4 +36,82 @@ body{
 }
 .menu ul li:hover a{
 	color: orange;
+}
+
+section .top-banner{
+    padding-top: 20px;
+}
+.banner-left-part{
+    padding-top: 100px;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.banner-right-part{
+    margin-top: 20px;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+h1 span{
+    color: orange;
+}
+p{
+    color: dimgray;
+    margin-bottom: 60px;
+}
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #f68d4c, #ff2200);
+    padding: 20px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+	text-decoration: none;
+	text-align: center;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	width: 100px;
+	border-radius: 30px;
+}
+.banner-right-part img{
+    width: 100%;
+    padding-top: 36px;
+}
+
+.about-area{
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    height: 520px;
+    position: absolute;
+    margin-top: 800px;
+}
+
+.about-left-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.about-right-part{
+    padding-top: 80px;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.about-left-part img{
+    padding-left: 20%;
+    padding-top: 14%;
+    width: 45%;
 }
