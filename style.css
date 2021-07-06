@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .menu-bar{
@@ -58,7 +58,9 @@ section .top-banner{
 }
 h1{
     font-size: 50px;
+	color: #4a4a4a;
     font-weight: 900;
+	line-height: 74px;
 }
 h1 span{
     color: orange;
@@ -66,6 +68,7 @@ h1 span{
 p{
     color: dimgray;
     margin-bottom: 60px;
+	line-height: 26px;
 }
 .anchor-button{
     text-decoration: none;
@@ -136,6 +139,7 @@ p{
 }
 .recipies-area h2{
     font-size: 30px;
+	color: #4a4a4a;
 }
 .recipies-area h2{
     font-size: 30px;
@@ -177,12 +181,15 @@ p{
 }
 #recipies-one img{
     width: 100%;
+	margin-top: 8px;
 }
 #recipies-two img{
     width: 100%;
+	margin-top: 8px;
 }
 #recipies-three img{
     width: 100%;
+	margin-top: 8px;
 }
 
 .social-area{
