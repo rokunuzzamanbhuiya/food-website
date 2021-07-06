@@ -220,3 +220,81 @@ p{
 .social-item-three h1{
     margin-bottom: 0px;
 }
+
+.contact-area{
+    margin-top: 100px;
+    padding-top: 10px;
+    background-image: url(images/contact.jpg);
+    height: 780px;
+}
+.contact-title{
+    text-align: center;  
+    margin-top: 5%;
+}
+.contact-paragraph{
+    text-align: center;
+    margin: 0px auto;
+    width: 40%;
+    margin-bottom: 5%;  
+}
+.d-flex-contactl{ 
+    margin-top: 10px;
+
+    width: 86%;
+	margin: auto;
+}
+.address {
+    padding: 0 20px;
+    float: left;
+    width: 30%;
+    margin-left: 8%;
+}
+.address h5 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 3px 0;
+}
+.address p a{
+    color: #777;
+    margin: 0 0 20px;
+    text-decoration: none;
+}
+.message {
+    padding-left: 10%;
+    float: left;
+    width: 40%;
+}
+.form-group {
+    margin-bottom: 25px;
+}
+.form-control {
+    border: 1px solid rgba(221, 221, 221, 1);
+    box-shadow: none;
+    height: 45px;
+    width: 100%;
+    border-radius: 0;
+    box-shadow: 0 7px 13px 0 rgba(72, 194, 78, 0.02), 0 0px 15px 0 rgba(72, 194, 78, 0.09);
+}
+textarea.form-control {
+    resize: none;
+    padding: 14px 12px;
+}
+.form-control:hover {
+    border-width: 1px;
+    border-style: solid;
+}
+.form-control:focus {
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: none;
+    outline: 0 none;
+    box-shadow: 0 7px 21px 0 rgba(0, 0, 0, 0.1);
+}
+#mag{
+    width: 98%;
+    margin-bottom: 20px;
+}
+input[placeholder]{
+    text-align: left;
+    padding-left: 10px;
+}
