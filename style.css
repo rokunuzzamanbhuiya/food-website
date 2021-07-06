@@ -3,6 +3,7 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+
 .menu-bar{
 	background-color: #fff0e5;
     padding: 50px 0px;
@@ -114,4 +115,72 @@ p{
     padding-left: 20%;
     padding-top: 14%;
     width: 45%;
+}
+
+.recipies-area{
+    margin-top: 1400px;
+}
+.recipies-title{
+    text-align: center;  
+    margin-top: 5%;
+}
+.recipies-paragraph{
+    text-align: center;
+    margin: 0px auto;
+    width: 40%;
+    margin-bottom: 5%;  
+}
+.d-flex{
+    display: flex;
+    margin-right: 5%;
+}
+.recipies-area h2{
+    font-size: 30px;
+}
+.recipies-area h2{
+    font-size: 30px;
+}
+.recipies-item-one{
+    box-shadow: 0px 0px 20px gray;
+    width: 30%;
+    margin-left: 8%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+
+}
+.recipies-item-two{
+    box-shadow: 0px 0px 20px gray;
+    width: 30%;
+    margin-left: 3%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+.recipies-item-three{
+    box-shadow: 0px 0px 20px gray;
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+#recipies-one img{
+    width: 100%;
+}
+#recipies-two img{
+    width: 100%;
+}
+#recipies-three img{
+    width: 100%;
 }
