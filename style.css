@@ -184,3 +184,39 @@ p{
 #recipies-three img{
     width: 100%;
 }
+
+.social-area{
+    margin-top: 100px;
+}
+.d-flex-social{
+    display: flex;
+    margin-right: 5%;
+    box-shadow: 0px 0px 20px gray;
+    width: 82%;
+    margin-left: 8%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+.social-item-one{
+    width: 30%;
+    margin-left: 15%;
+}
+.social-item-one h1{
+    margin-bottom: 0px;
+}
+.social-item-two{
+    width: 30%;
+}
+.social-item-two h1{
+    margin-bottom: 0px;
+}
+.social-item-three{
+    width: 30%;   
+}
+.social-item-three h1{
+    margin-bottom: 0px;
+}
