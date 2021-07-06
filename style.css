@@ -298,3 +298,19 @@ input[placeholder]{
     text-align: left;
     padding-left: 10px;
 }
+
+.footer-design{
+    background-color: black;
+    padding: 20px 0px;
+}
+footer h2{
+    text-align: center;
+    color:#737374;
+}
+h2 span{
+    color: orange;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
